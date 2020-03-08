@@ -10,8 +10,12 @@
   "dependencies": {
     "@babel/runtime": "^7.7.6",
     "@google-cloud/speech": "^3.6.0",
+    "aws-sdk": "^2.635.0",
+    "ffmpeg": "0.0.4",
     "jquery": "^3.4.1",
-    "meteor-node-stubs": "^1.0.0"
+    "meteor-node-stubs": "^1.0.0",
+    "plyr": "^3.5.10",
+    "uuid": "^7.0.2"
   },
   "meteor": {
     "mainModule": {
