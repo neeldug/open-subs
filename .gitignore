@@ -1,3 +1,4 @@
 node_modules/
 private/
+starter.sh
 *.DS_STORE
